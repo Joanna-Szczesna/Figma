@@ -2,27 +2,35 @@
 
 ## Practice setting type
 
+ [figma: setting type](https://www.figma.com/file/WRB09BwjJ78BXsTDQXSnRh/Practice%3A-Setting-Type-(Copy)?t=TTRiyVIe47Eutoln-1)
+ 
  ![setting type](/practice/Practice_Setting_Type.png)
  
- [Duck Duck Go](https://duckduckgo.com)
 
 ***
  
+ 
 ## Practice typeface pairing
+
+ [figma: typeface pairing](https://www.figma.com/file/MmWu5BZbpIkVrJIBMR4Pxm/Practice%3A-Typeface-Pairing-(Copy)?node-id=0%3A1&t=EYVkhF8J3Ineik1E-1)
  
   ![typeface pairing](/practice/Practice_Typeface_Pairing.png)
   
 ***  
   
+  
 ## Practice hierarchy
-  
+    
+[figma: hierarchy](https://www.figma.com/file/MdQax5bRtMf7I7KlJmDlOw/Practice%3A-Hierarchy-(Copy)?node-id=55%3A27&t=yoZpFdJyidRD8Np1-1)
+
   ![hierarchy](/practice/Practice_Hierarchy.png)
-  
-[figma source](https://www.figma.com/file/MdQax5bRtMf7I7KlJmDlOw/Practice%3A-Hierarchy-(Copy)?node-id=55%3A27&t=yoZpFdJyidRD8Np1-1)
 
 ***
   
+  
 ## Practice sampling colors
+
+ [figma: sampling colors](https://www.figma.com/file/XDu9F0MBJ8pQjYKhHhwpBA/Practice%3A-Sampling-Colors-(Copy)?node-id=0%3A1&t=c5YA2NYvtmzdjyou-1)
 
 ### first
 
@@ -34,7 +42,11 @@
 
 ***
 
+
 ## Practice image overlays
+
+ [figma: images overlays](https://www.figma.com/file/icLxe5uEuFmJk53jlUPrK4/Practice%3A-Image-Overlays-(Copy)?t=2bOuGXuKV3Z9Ogw5-0)
+
 
 ### first
 
