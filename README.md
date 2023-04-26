@@ -60,3 +60,29 @@
 
 ![image overlays 3](/practice/Practice_Image_Overlays_3.png)
 
+
+## Photos
+
+[figma: photos](https://www.figma.com/file/uIlPTsN9gYsk0Ocf9tq2K0/Practice%3A-Cropping-(Copy)?node-id=0%3A1&t=wV2Eh5m7RWw2akD7-1)
+
+
+### Extreme croping
+
+#### before
+
+![extreme crop](/practice/Extreme_Crop_before.png)
+
+#### after
+
+![extreme crop](/practice/Extreme_Crop_after.png)
+
+
+### Soft cropping white
+
+#### before
+
+![Soft cropping white](/practice/Soft_Crop_White_before.png)
+
+#### after
+
+![Soft cropping white](/practice/Soft_Crop_White_after.png)
