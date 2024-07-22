@@ -1,4 +1,4 @@
-# Figma
+# Figma test
 
 ## Practice setting type
 
